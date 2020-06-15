@@ -3,7 +3,7 @@
 title: DALI 2020
 subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
-baseurl: ""
+baseurl: "https://bguedj.github.io/"
 url: ""
 
 
@@ -37,13 +37,13 @@ conference:
   venue: H10 Punta Negra Hotel
   venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
   location: Costa d'en Blanes, Balearic Islands, Spain
-  year: 2020
-  month: October
+  year: 2022
+  month: July
   dates:
-  - 2020-10-25
-  - 2020-10-26
-  - 2020-10-27
-  - 2020-10-28
+  - 2022-07-01
+  # - 2020-10-26
+  # - 2020-10-27
+  # - 2020-10-28
 
   support:
   - name: Max Planck ETH Center for Learning Systems
