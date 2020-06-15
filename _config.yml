@@ -1,7 +1,7 @@
 
 # Global site settings
-title: DALI 2020
-subtitle: Data, Learning and Inference
+title: Joint workshop -- COLT and IMS 2022
+subtitle: 
 permalink: "/:categories/:title.html"
 baseurl: "/colt-ims-2022.github.io"
 url: ""
@@ -32,11 +32,11 @@ conference:
   draft: false
   hide_tentative: true
 
-  name: DALI 2020 — Data, Learning and Inference
-  shortname: DALI
-  venue: H10 Punta Negra Hotel
-  venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
-  location: Costa d'en Blanes, Balearic Islands, Spain
+  name: Joint workshop -- COLT and IMS 2022
+  shortname: COLT-IMS
+  venue: London
+  venue_url:  
+  location: London, United Kingdom
   year: 2022
   month: July
   dates:
@@ -46,20 +46,24 @@ conference:
   # - 2020-10-28
 
   support:
-  - name: Max Planck ETH Center for Learning Systems
-    url: "https://learning-systems.org"
-  - name: European Laboratory for Learning and Intelligent Systems (ELLIS)
-    url: https://ellis.eu
+  - name: COLT
+    url: ""
+  - name: IMS
+    url: 
 
   general:
-  - given: Neil D.
-    family: Lawrence
+  - given: Benjamin
+    family: Guedj
     url: "http://inverseprobability.com"
     institute: University of Cambridge
-  - given: Bernhard
-    family: Schölkopf
+  - given: Peter
+    family: Grünwald
     url: "https://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon
+  - given: Susan
+    family: Murphy
+    url: "https://ei.is.tuebingen.mpg.de/person/bs"
+    institute: MPI for Intelligent Systems (Tübingen) and Amazon  
 
   local:
   - given: Gergely
@@ -71,15 +75,15 @@ conference:
     url: https://www.upf.edu/web/vgomez
     institute: Universitat Pompeu Fabra
 
-  workshop:
-  - given: Gergely
-    family: Neu
-    url: http://cs.bme.hu/~gergo/
-    institute: Universitat Pompeu Fabra
-  - given: Lorenzo 
-    family: Rosasco
-    url: http://web.mit.edu/lrosasco/www/
-    institute: Universita' di Genova and Massachusetts Institute of Technology
+  # workshop:
+  # - given: Gergely
+  #   family: Neu
+  #   url: http://cs.bme.hu/~gergo/
+  #   institute: Universitat Pompeu Fabra
+  # - given: Lorenzo 
+  #   family: Rosasco
+  #   url: http://web.mit.edu/lrosasco/www/
+  #   institute: Universita' di Genova and Massachusetts Institute of Technology
 
   assistants:
   - given: Diana
@@ -112,13 +116,13 @@ conference:
 # Set up collections (for workshops and schedule)
 collections:
   workshops:
-    output: true
+    output: false
     permalink: /workshops/:name
   schedule:
     output: true
     permalink: /schedule/:name
 
 # Social media settings
-contact_email: drebmann@google.com
-github_username: dalimeeting
+contact_email: benjamin.guedj@inria.fr
+github_username: bguedj
 twitter_username:
