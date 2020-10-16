@@ -65,15 +65,15 @@ conference:
     url: "https://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon  
 
-  local:
-  - given: Gergely
-    family: Neu
-    url: http://cs.bme.hu/~gergo/
-    institute: Universitat Pompeu Fabra
-  - given: Vicenç 
-    family: Gómez
-    url: https://www.upf.edu/web/vgomez
-    institute: Universitat Pompeu Fabra
+  # local:
+  # - given: Gergely
+  #   family: Neu
+  #   url: http://cs.bme.hu/~gergo/
+  #   institute: Universitat Pompeu Fabra
+  # - given: Vicenç 
+  #   family: Gómez
+  #   url: https://www.upf.edu/web/vgomez
+  #   institute: Universitat Pompeu Fabra
 
   # workshop:
   # - given: Gergely
@@ -85,32 +85,32 @@ conference:
   #   url: http://web.mit.edu/lrosasco/www/
   #   institute: Universita' di Genova and Massachusetts Institute of Technology
 
-  assistants:
-  - given: Diana
-    family: Rebmann
-    institute: DeepMind (Montréal)
-  - given: Timothy
-    family: Gebhard
-    url: "https://timothygebhard.de"
-    institute: MPI for Intelligent Systems (Tübingen) and ETH Zurich
+  # assistants:
+  # - given: Diana
+  #   family: Rebmann
+  #   institute: DeepMind (Montréal)
+  # - given: Timothy
+  #   family: Gebhard
+  #   url: "https://timothygebhard.de"
+  #   institute: MPI for Intelligent Systems (Tübingen) and ETH Zurich
 
-  steering:
-  - given: Zoubin
-    family: Ghahramani
-    url: "http://mlg.eng.cam.ac.uk/zoubin/"
-    institute: University of Cambridge and Uber
-  - given: Thomas
-    family: Hofmann
-    url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
-    institute: ETH Zurich
-  - given: Neil D.
-    family: Lawrence
-    url: "http://inverseprobability.com"
-    institute: University of Cambridge
-  - given: Bernhard
-    family: Schölkopf
-    url: "https://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI for Intelligent Systems (Tübingen) and Amazon
+  # steering:
+  # - given: Zoubin
+  #   family: Ghahramani
+  #   url: "http://mlg.eng.cam.ac.uk/zoubin/"
+  #   institute: University of Cambridge and Uber
+  # - given: Thomas
+  #   family: Hofmann
+  #   url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
+  #   institute: ETH Zurich
+  # - given: Neil D.
+  #   family: Lawrence
+  #   url: "http://inverseprobability.com"
+  #   institute: University of Cambridge
+  # - given: Bernhard
+  #   family: Schölkopf
+  #   url: "https://ei.is.tuebingen.mpg.de/person/bs"
+  #   institute: MPI for Intelligent Systems (Tübingen) and Amazon
 
 
 # Set up collections (for workshops and schedule)
@@ -125,4 +125,4 @@ collections:
 # Social media settings
 contact_email: benjamin.guedj@inria.fr
 github_username: bguedj
-twitter_username:
+twitter_username: bguedj
