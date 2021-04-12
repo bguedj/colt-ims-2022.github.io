@@ -47,23 +47,23 @@ conference:
 
   support:
   - name: COLT
-    url: ""
+    url: "https://www.learningtheory.org"
   - name: IMS
-    url: 
+    url: "https://imstat.org"
 
   general:
   - given: Benjamin
     family: Guedj
-    url: "http://inverseprobability.com"
-    institute: University of Cambridge
+    url: "https://bguedj.github.io"
+    institute: Inria and University College London, France and UK
   - given: Peter
     family: Grünwald
-    url: "https://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI for Intelligent Systems (Tübingen) and Amazon
+    url: "https://safestatistics.com"
+    institute: CWI and Leiden University, Netherlands
   - given: Susan
     family: Murphy
-    url: "https://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI for Intelligent Systems (Tübingen) and Amazon  
+    url: "http://people.seas.harvard.edu/~samurphy/"
+    institute: Harvard University, US
 
   # local:
   # - given: Gergely
